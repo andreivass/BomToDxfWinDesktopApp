@@ -1,0 +1,10 @@
+C:\Users\andre\OneDrive\Andrei personal\VisualStudio\DxfBom1\bin\Debug\DxfBom1.exe.config
+C:\Users\andre\OneDrive\Andrei personal\VisualStudio\DxfBom1\bin\Debug\DxfBom1.exe
+C:\Users\andre\OneDrive\Andrei personal\VisualStudio\DxfBom1\bin\Debug\DxfBom1.pdb
+C:\Users\andre\OneDrive\Andrei personal\VisualStudio\DxfBom1\obj\Debug\DxfBom1.Form1.resources
+C:\Users\andre\OneDrive\Andrei personal\VisualStudio\DxfBom1\obj\Debug\DxfBom1.Properties.Resources.resources
+C:\Users\andre\OneDrive\Andrei personal\VisualStudio\DxfBom1\obj\Debug\DxfBom1.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Andrei personal\VisualStudio\DxfBom1\obj\Debug\DxfBom1.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Andrei personal\VisualStudio\DxfBom1\obj\Debug\DxfBom1.exe
+C:\Users\andre\OneDrive\Andrei personal\VisualStudio\DxfBom1\obj\Debug\DxfBom1.pdb
+C:\Users\andre\OneDrive\Andrei personal\VisualStudio\DxfBom1\obj\Debug\DxfBom1.csprojAssemblyReference.cache
